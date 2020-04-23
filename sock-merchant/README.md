@@ -43,4 +43,5 @@ Sample Input
 *John can match three pairs of socks.*
 
 <br>
-Created by: [HackerRank](https://www.hackerrank.com/challenges/sock-merchant)
+Created by: [HackerRank]
+[HackerRank]: https://www.hackerrank.com/challenges/sock-merchant
