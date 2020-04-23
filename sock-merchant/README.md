@@ -20,8 +20,8 @@ The second line contains n space-separated integers describing the colors ar[i] 
 
 ### Constraints
 
-1 <= n <= 100
-1 <= ar[i] <= 100 where 0 <= i < n
+- 1 <= n <= 100
+- 1 <= ar[i] <= 100 where 0 <= i < n
 
 ### Output Format
 
@@ -29,8 +29,8 @@ Return the total number of matching pairs of socks that John can sell.
 
 Sample Input
 
-9
-10 20 20 10 10 30 50 10 20
+- 9
+- 10 20 20 10 10 30 50 10 20
 
 ### Sample Output
 
