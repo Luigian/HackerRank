@@ -40,7 +40,9 @@ Sample Input
 
 <img src="../resources/images/sock-merchant.png" width="300">
 
-John can match three pairs of socks.
+*John can match three pairs of socks.*
 
 <br>
-Created by: [HackerRank](https://www.hackerrank.com/challenges/sock-merchant)
+Created by: [HackerRank][hr]
+
+[hr]: https://www.hackerrank.com/challenges/sock-merchant
