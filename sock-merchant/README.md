@@ -38,6 +38,6 @@ Sample Input
 
 ### Explanation
 
-<img src="..resources/images/sock-merchant.png" width="500">
+<img src="../resources/images/sock-merchant.png" width="500">
 
 John can match three pairs of socks.
