@@ -1,4 +1,5 @@
 # Sock Merchant 
+
 [HackerRank Challenge][HR]
 [HR]: https://www.hackerrank.com/challenges/sock-merchant/
 
