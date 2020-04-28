@@ -5,10 +5,11 @@ def sockMerchant(n, ar):
     while i < n:
         array[ar[i]] += 1
         i += 1 
-    int(result)
+    
     while j < 101:
-        result += array[j] / 2
+        result += int(array[j] / 2)
         j += 1 
+    
     return result
 
 def main():
