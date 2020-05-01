@@ -1,17 +1,17 @@
-def aCounter(s, nlen):
+def aCounter(s, l):
     i = a = 0
     
-    while i < nlen:
+    while i < l:
         if s[i] == "a":
             a += 1
         i += 1
     return a
 
 def repeatedString(s, n):
-    slen = len(s) 
-    a = aCounter(s, slen)
-    result = (n / slen) * a
-    result += aCounter(s, n % slen)
+    l = len(s) 
+    a = aCounter(s, l)
+    result = (n / l) * a
+    result += aCounter(s, n % l)
     return int(result)
 
 def main():
